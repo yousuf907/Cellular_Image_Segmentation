@@ -1,4 +1,4 @@
-# Embryo Image Segmentation
+# Cellular Image Segmentation
 
 ***Image Segmentation of Zona-Ablated Human Blastocysts:
 
